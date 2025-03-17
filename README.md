@@ -483,7 +483,8 @@ int main() {
 ![image](https://github.com/user-attachments/assets/5c3d5fcf-0fed-40d4-b0ce-1e190a78e625)
 
 # DECRYPTION
-![image](https://github.com/user-attachments/assets/7673d7ff-a5d5-40f3-a183-3f0ad7d06717)
+![image](https://github.com/user-attachments/assets/9aef5607-aea5-4a4a-a2fd-ec27e0b3f63b)
+
 
 
 ## RESULT:
