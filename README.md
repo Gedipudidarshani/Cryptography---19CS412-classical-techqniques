@@ -112,7 +112,8 @@ int main() {
 ![image](https://github.com/user-attachments/assets/e115a10d-2dc6-42b0-9fe7-eafbdbc11aa7)
 
 # DECRYPTION
-![image](https://github.com/user-attachments/assets/c2164754-b436-467c-a041-bb036d88edc4)
+![image](https://github.com/user-attachments/assets/aad0ec0c-0cc4-4fb5-9990-26e276dbbb1a)
+
 
 
 ## RESULT:
